@@ -1,0 +1,32 @@
+.con-wrapper {
+  padding: 0.5rem 0;
+  background: #f9f9f9;
+}
+
+.con-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.con-container img {
+  max-width: 120px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.con-container img:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .con-container {
+    gap: 1.5rem;
+  }
+
+  .con-container img {
+    max-width: 90px;
+  }
+}

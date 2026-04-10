@@ -1,0 +1,118 @@
+.v-container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.v-container > div {
+  flex: 1;
+}
+
+.v-left .value-image-container {
+  border: 8px solid rgb(232 232 232 / 93%);
+  border-radius: 20px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.15);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.v-left .value-image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.v-left .value-image-container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.2);
+}
+
+.v-right {
+  gap: 0.75rem;
+}
+.accordion {
+  margin-top: 2rem;
+  border: none;
+}
+.accordionItem {
+  background: white;
+  border: 0.8px solid rgba(128, 128, 128, 0.143);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.accordionItem.expanded {
+  box-shadow: var(--shadow);
+  border-radius: 6px;
+}
+.accordionButton {
+  background: white;
+  padding: 1rem;
+  width: 100%;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.icon {
+  padding: 10px;
+  background: #eeeeff;
+  border-radius: 5px;
+}
+.icon svg {
+  fill: var(--blue);
+}
+.accordionButton .primaryText {
+  font-size: 1.1rem;
+}
+
+@media (max-width: 1024px) {
+  .v-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .v-right {
+    align-items: center;
+  }
+
+  .v-left .value-image-container {
+    max-width: 90%;
+  }
+
+  .accordionButton {
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    text-align: left;
+  }
+}
+
+@media (max-width: 768px) {
+  .v-right .orangeText,
+  .v-right .primaryText,
+  .v-right .secondaryText {
+    text-align: center;
+    width: 100%;
+  }
+
+  .accordionButton .primaryText {
+    font-size: 0.9rem;
+  }
+
+  .accordionItemPanel .secondaryText {
+    font-size: 0.85rem;
+  }
+
+  .accordionButton {
+    padding: 0.8rem;
+  }
+
+  .icon {
+    padding: 6px;
+  }
+
+  .v-left .value-image-container {
+    max-width: 100%;
+  }
+}

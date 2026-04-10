@@ -1,0 +1,91 @@
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "mongodb"
+    url      = env("DATABASE_URL")
+}
+
+model User {
+    id                    String         @id @default(auto()) @map("_id") @db.ObjectId
+    name                  String?
+    email                 String         @unique
+    password              String?
+    image                 String?
+    bookedVisits          Json[]
+    favResidenciesID      String[]       @db.ObjectId
+    ownedResidencies      Residency[]    @relation("Owner")
+    isAdmin               Boolean        @default(false)
+    chatsAsUser           Chat[]         @relation("UserChats")
+    chatsAsAgent          Chat[]         @relation("AgentChats")
+    sentMessages          Message[]      @relation("SentMessages")
+    receivedMessages      Message[]      @relation("ReceivedMessages")
+    sentNotifications     Notification[] @relation("SentNotifications")
+    receivedNotifications Notification[] @relation("ReceivedNotifications")
+    createdAt             DateTime       @default(now())
+    updatedAt             DateTime       @updatedAt
+}
+
+model Residency {
+    id          String   @id @default(auto()) @map("_id") @db.ObjectId
+    title       String
+    description String
+    price       Int
+    address     String
+    city        String
+    country     String
+    image       String
+    images      String[]
+    facilities  Json
+    userEmail   String
+    forStatus   String?
+    owner       User     @relation("Owner", fields: [userEmail], references: [email])
+    chats       Chat[]   @relation("PropertyChats")
+
+    // Agent contact details as JSON
+    agentDetails Json?
+
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+}
+
+model Chat {
+    id         String    @id @default(auto()) @map("_id") @db.ObjectId
+    propertyId String    @db.ObjectId
+    property   Residency @relation("PropertyChats", fields: [propertyId], references: [id])
+    userId     String    @db.ObjectId
+    user       User      @relation("UserChats", fields: [userId], references: [id])
+    agentEmail String
+    agent      User      @relation("AgentChats", fields: [agentEmail], references: [email])
+    messages   Message[]
+    isActive   Boolean   @default(true)
+    createdAt  DateTime  @default(now())
+    updatedAt  DateTime  @updatedAt
+}
+
+model Message {
+    id         String   @id @default(auto()) @map("_id") @db.ObjectId
+    chatId     String   @db.ObjectId
+    chat       Chat     @relation(fields: [chatId], references: [id], onDelete: Cascade)
+    senderId   String   @db.ObjectId
+    sender     User     @relation("SentMessages", fields: [senderId], references: [id])
+    receiverId String   @db.ObjectId
+    receiver   User     @relation("ReceivedMessages", fields: [receiverId], references: [id])
+    content    String
+    isRead     Boolean  @default(false)
+    createdAt  DateTime @default(now())
+}
+
+model Notification {
+    id         String   @id @default(auto()) @map("_id") @db.ObjectId
+    senderId   String   @db.ObjectId
+    sender     User     @relation("SentNotifications", fields: [senderId], references: [id])
+    receiverId String   @db.ObjectId
+    receiver   User     @relation("ReceivedNotifications", fields: [receiverId], references: [id])
+    type       String // "message", "booking", "property_alert", etc
+    message    String
+    isRead     Boolean  @default(false)
+    data       Json? // Additional data like propertyId, chatId, etc
+    createdAt  DateTime @default(now())
+}

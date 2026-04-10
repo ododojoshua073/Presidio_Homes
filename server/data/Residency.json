@@ -1,0 +1,379 @@
+[
+  {
+    "_id": "6891091300996cd53f07b7f2",
+    "title": "Classic Mid-Century Ranch Home in Utah",
+    "description": "Located at 1792 N 1600 W in Layton, Utah (84041), this charming single-family residence is listed at $439,900. Built in 1963, the home offers a combination of classic mid-century character and practical modern living, making it an ideal option for families or individuals looking for comfort, space, and location.\n\nThe house features three bedrooms and two bathrooms, providing a well-balanced layout across 1,484 square feet of interior space. With a price of $296 per square foot, it presents a competitive offering in the Layton housing market. The property sits on a 0.26-acre lot, offering ample outdoor space for gardening, recreation, or potential expansion. Whether you're envisioning a cozy backyard retreat or room for pets and play, the generous lot size provides flexibility and opportunity.",
+    "price": 439900,
+    "address": "1792 N 1600 W",
+    "city": "Layton, Utah 84041",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754335110/fptaeg2zzlxs7olh3nco.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754335110/fptaeg2zzlxs7olh3nco.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1484,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T19:25:07.830Z",
+    "updatedAt": "2025-08-04T19:25:07.830Z"
+  },
+  {
+    "_id": "68910b7b00996cd53f07b7f3",
+    "title": "Charming Lehi Home with Modern Upgrades",
+    "description": "This charming single-family home located at 403 S Olive Way in Lehi, Utah, offers a blend of comfort and modern amenities. Built in 2007, the house features 3 bedrooms, 2.5 baths, and a spacious 2,404 square feet of living space. It sits on a large 8,712 square foot lot and is part of the JORDAN WILLOWS community.\n\nThe house has been recently updated with LVP flooring throughout, making it perfect for those with pets or allergies. The main floor boasts a large, open-concept floor plan with an open kitchen, painted white cabinets, and tile flooring. French doors lead to a library and the living area is perfect for entertaining.\n\nOutside, the property features a large concrete patio and a fully landscaped yard. The home also includes a chicken coop which can stay if the buyer wishes.\n\nAdditional features include:\n2-car garage with RV parking, Central A/C, \nDryer hookup,\n$4 monthly HOA fee\n\nThis home is situated in a quiet cul-de-sac on the west side of Lehi. With a price of $555,000, it presents a great opportunity in a hot market.",
+    "price": 555000,
+    "address": "403 S Olive Way",
+    "city": "Lehi,Utah 84043",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754335814/oiykackvreapeijtrusl.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754335814/oiykackvreapeijtrusl.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 2402,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T19:35:22.221Z",
+    "updatedAt": "2025-08-04T19:35:22.221Z"
+  },
+  {
+    "_id": "68910f0100996cd53f07b7f4",
+    "title": "Modern Townhome",
+    "description": "3 Bedroom, 2.5 Bath, 2 Car Garage. This is an end unit townhome with spacious yard. A private enclosed patio, Quart countertops and quality construction throughout the home. HOA will cover the open space to subdivision",
+    "price": 2200,
+    "address": "2005 W 250 N",
+    "city": "Hurricane, Utah 84737",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754336737/xvwwjg7u4anxeykfl1n1.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754336737/xvwwjg7u4anxeykfl1n1.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1800,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-04T19:50:23.968Z",
+    "updatedAt": "2025-08-04T19:50:23.968Z"
+  },
+  {
+    "_id": "689113b800996cd53f07b7f5",
+    "title": "The English Cottage",
+    "description": "Large 4 bedroom Murray home. Great quiet location in the heart of Murray. 3 bedrooms upstairs. 1 bedroom downstairs. Large living area with carpet. Big master bedroom with shower stall, bathtub and walk in closet. Office suite next to master bedroom. Laundry room is upstairs with a washer and dryer. 2 fireplace. Great home to entertain. Out back is covered deck with mature landscape. Fenced backyard with sprinkler system. Playground, basketball court and garden. Storage shed with lawnmower. Pets welcome with a pet rent a deposit. 2 car garage. No smoking!",
+    "price": 3200,
+    "address": "1072 W Fairhaven Cir",
+    "city": "Salt Lake City, Utah 84123",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754337499/dfjo1in8olgad3pyw1gf.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754337499/dfjo1in8olgad3pyw1gf.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "squareFeet": 3200,
+      "bathrooms": 3
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-04T20:10:31.617Z",
+    "updatedAt": "2025-08-04T20:10:31.617Z"
+  },
+  {
+    "_id": "689115b200996cd53f07b7f6",
+    "title": "Modern Townhomes at Desert Haven",
+    "description": "This contemporary townhome, located at VALO at Desert Haven in Washington, Utah, offers a sleek and modern design. The property is part of a series of connected units, each featuring a clean facade with a mix of neutral-toned siding, stone accents, and large, dark garage doors. The design emphasizes a clean, urban aesthetic with minimalist landscaping. The interiors of these units typically feature a spacious layout with 3 bedrooms and 2.5 baths spread across 1,754 square feet, making them ideal for modern living. The community and its design are well-suited for a rental property, providing a comfortable and stylish living experience.",
+    "price": 2369,
+    "address": "4290 S. Parsons Dr",
+    "city": "Washington, Utah 84780",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754338667/nggt1rppzi96cigjfrvm.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754338667/nggt1rppzi96cigjfrvm.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1754,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-04T20:18:58.766Z",
+    "updatedAt": "2025-08-04T20:18:58.766Z"
+  },
+  {
+    "_id": "6891176c00996cd53f07b7f7",
+    "title": " Charming Modern Home in Saratoga Springs",
+    "description": "This appealing single-family residence, built in 2018, is located at 3306 S Hawk Dr in Saratoga Springs, Utah. The home features a modern architectural design with a blend of materials, including stone accents and shingle siding on the facade, giving it a cozy yet contemporary feel. The property includes a two-car garage and is situated on a 6,534 square foot lot. Inside, the house offers 1,423 square feet of living space, with 3 bedrooms and 2 baths. It's a great opportunity for those seeking a newer home in a well-established community.",
+    "price": 425000,
+    "address": "3306 S Hawk Dr",
+    "city": "Saratoga Springs, Utah 84045",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339126/amhlwaixpy4cbrka1bho.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339126/amhlwaixpy4cbrka1bho.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1423,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T20:26:19.477Z",
+    "updatedAt": "2025-08-04T20:26:19.477Z"
+  },
+  {
+    "_id": "6891195e00996cd53f07b7f8",
+    "title": "Spacious Upgraded Home in West Jordan",
+    "description": "This large rental home, located at 4415 W Bingham Park Dr in West Jordan, Utah, offers 4 bedrooms, 2.5 baths, and a generous 2,600 square feet of living space. Situated on a .25-acre lot, the property features recent upgrades including brand-new luxury vinyl plank (LVP) and carpet flooring, ensuring a move-in-ready experience. The kitchen, shown in the interior photo, is equipped with dark wood cabinetry and a modern range. Outside, the home boasts a large backyard with a Trex deck, a 3-car garage, and an RV pad, providing ample space for storage and outdoor activities. With its prime location close to shopping, dining, and parks, this home is ideal for those seeking both comfort and convenience.",
+    "price": 2600,
+    "address": "4415 W Bingham Park Dr",
+    "city": "West Jordan, Utah 84088",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339634/kme7hymdrc8swfr1pmfv.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339634/kme7hymdrc8swfr1pmfv.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "squareFeet": 2600,
+      "bathrooms": 3
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-04T20:34:36.960Z",
+    "updatedAt": "2025-08-04T20:34:36.960Z"
+  },
+  {
+    "_id": "68911a8c00996cd53f07b7f9",
+    "title": "Modern Townhome in Lehi with Community Amenities",
+    "description": "This modern townhome, located at 612 N Canvasback Dr in Lehi, Utah, offers a contemporary and convenient lifestyle. Built in 2022, the home features a clean design with light-colored siding, a small balcony, and an inviting front entry. With 3 bedrooms and 2 baths spread over 1,311 square feet, it's a perfect size for a variety of needs. The property is part of a community with a $135 monthly HOA fee that provides access to a pool, playground, clubhouse, and more. Located in a growing area, it is close to a variety of commercial spaces and major roadways.",
+    "price": 418000,
+    "address": "612 N Canvasback Dr",
+    "city": "Lehi, Utah 84043",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339890/bemgkolmfvrqks9r9kut.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754339890/bemgkolmfvrqks9r9kut.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1311,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T20:39:39.180Z",
+    "updatedAt": "2025-08-04T20:39:39.180Z"
+  },
+  {
+    "_id": "68911b8f00996cd53f07b7fa",
+    "title": "Modern Suburban Home in Saint George",
+    "description": "This charming single-family home is located at 5887 S Charger Loop in Saint George, Utah. The two-story residence features a modern suburban design with mixed-material siding and an attached two-car garage. The front yard is well-maintained with a rock and shrub landscape. This rental property offers 4 bedrooms and 2.5 bathrooms within its 1,671 square feet of living space. Described as being in a \"welcoming neighborhood,\" the home combines convenience with a comfortable and modern feel, making it an ideal choice for a family looking to rent.",
+    "price": 1995,
+    "address": "5887 S Charger Loop",
+    "city": "Saint George, Utah 84790",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340149/dpkhvlzzs06pkjw0xwui.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340149/dpkhvlzzs06pkjw0xwui.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "squareFeet": 1671,
+      "bathrooms": 3
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-04T20:43:58.367Z",
+    "updatedAt": "2025-08-04T20:43:58.367Z"
+  },
+  {
+    "_id": "68911cae00996cd53f07b7fb",
+    "title": "Immaculate Modern Farmhouse in Lehi",
+    "description": "This stunning custom farmhouse, located at 2756 W 110 N in Lehi, Utah, offers a perfect blend of rustic charm and modern luxury. Built in 2017, the home features a classic white facade, a dark roof, and a welcoming front porch, all set against a beautiful mountainous backdrop. The property is situated on a spacious 0.5-acre lot and boasts 4,340 square feet of living space with 3 bedrooms and 2.5 bathrooms. The interior includes high-end features like custom farmhouse woodwork, double ovens, quartz countertops, a walk-in pantry, and a pergola and trampoline in the fully fenced yard. The price is listed at $980,000, but is negotiable.",
+    "price": 980000,
+    "address": "2756 W 110 N",
+    "city": "Lehi, Utah 84043",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340442/c15ujc5yuw2eb4ysguje.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340442/c15ujc5yuw2eb4ysguje.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 4340,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T20:48:45.364Z",
+    "updatedAt": "2025-08-04T20:48:45.364Z"
+  },
+  {
+    "_id": "68911e8500996cd53f07b7fc",
+    "title": "Stunning Stone Residence in Cedar Hills",
+    "description": "This newly finished, spacious home, located at 4259 W Mesquite Way in a beautiful Cedar Hills neighborhood, is now for sale at $2,000,000 (negotiable). The property boasts 4 bedrooms and 3.2 bathrooms within its expansive 2,000 square feet. The exterior showcases impressive stone detailing and a well-maintained lawn. Inside, the home features a beautiful kitchen with stainless steel appliances and granite and quartz countertops, an open-concept dining and living area, and a large 360sqft master bedroom with a full bathroom and walk-in pantry. This home offers easy access to the Silicon Slopes Tech Corridor and numerous recreational opportunities in American Fork Canyon. All utilities are included in the price.",
+    "price": 2000000,
+    "address": "4259 W Mesquite Way",
+    "city": "Cedar Hills, Utah 84062",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340919/bjoq6hahrmybtu31lw7l.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754340919/bjoq6hahrmybtu31lw7l.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "squareFeet": 2000,
+      "bathrooms": 3
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-04T20:56:35.761Z",
+    "updatedAt": "2025-08-04T20:56:35.761Z"
+  },
+  {
+    "_id": "6891736f00996cd53f07b7fe",
+    "title": " Modern Willow Park Villas Townhome",
+    "description": "This charming single-story residence features a welcoming design with a mix of stucco siding and detailed stone accents around a large, arched window. The home is a corner unit, providing a sense of space and privacy. It includes a spacious garage and is set in a This beautifully updated townhome, located at 1890 W 80 S Unit D1 in the Willow Park Villas community of Lehi, Utah, is currently for sale at $539,900. Built in 2010, this 1,895 square foot residence features 2 bedrooms and 2 bathrooms. The interior boasts a modern kitchen, vaulted ceilings, elegant plantation shutters, and brand-new flooring throughout. It is equipped with modern smart home features, including an Ecobee thermostat, keycode door access, and Bluetooth-enabled appliances. As part of a maintenance-free community with a $270 monthly HOA fee, residents have access to a pool, private theater, and clubhouse.",
+    "price": 539900,
+    "address": "1890 W 80 S Unit D1",
+    "city": "Lehi, Utah 84043",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754362320/xoehu9clnjqv43zdggqz.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754362320/xoehu9clnjqv43zdggqz.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "squareFeet": 1895,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-05T02:58:54.485Z",
+    "updatedAt": "2025-08-05T02:58:54.485Z"
+  },
+  {
+    "_id": "6891762700996cd53f07b7ff",
+    "title": "The Olive",
+    "description": "The Olive offers a modern and sophisticated living experience in the heart of downtown Salt Lake City, Utah. The luxury apartment building is conveniently located at 378 S 300 W, just 10 minutes from both the University of Utah and the Salt Lake Airport. The property provides a variety of floor plans, including studios, 1-bedroom, and 2-bedroom units, with prices starting from $1,389 per month.\n\nResidents can take advantage of a special offer that includes up to 8 weeks of free rent on immediate move-ins. The community boasts an array of amenities, such as a 24/7 fitness center, lounge, pet washing station, and a rooftop deck with barbecue facilities. The building is secured with controlled access and features on-site management, valet trash service, and an online maintenance portal for convenience. Units come with in-unit washers and dryers, stainless steel appliances, and quartz countertops. The location provides easy access to local ski resorts, hiking trails, and a vibrant downtown nightlife.",
+    "price": 2299,
+    "address": "378 S 300 W",
+    "city": "Salt Lake City, Utah 84101",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363064/ub082yrwuuxomuexxcel.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363064/ub082yrwuuxomuexxcel.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 2,
+      "squareFeet": 500,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-05T03:10:30.602Z",
+    "updatedAt": "2025-08-05T03:10:30.602Z"
+  },
+  {
+    "_id": "6891778b00996cd53f07b800",
+    "title": "Charming Home with Modern Upgrades in Saratoga Springs",
+    "description": "This appealing single-family home at 3306 S Hawk Dr in Saratoga Springs, Utah, is now for sale at a price of $420,000. Built in 2018, this 1,423 square foot residence features 3 bedrooms and 2 bathrooms, making it a comfortable and functional living space. The property is part of a community with a low $37 monthly HOA fee.",
+    "price": 420000,
+    "address": "283 E Polaris Dr #102",
+    "city": "Saratoga Springs, Utah 84045 ",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363717/p8rfghdavr1lw7u7anjw.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363717/p8rfghdavr1lw7u7anjw.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 4,
+      "squareFeet": 5179,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-05T03:16:26.641Z",
+    "updatedAt": "2025-08-05T03:16:26.641Z"
+  },
+  {
+    "_id": "6891789c00996cd53f07b801",
+    "title": "Newly Remodeled Duplex",
+    "description": "This newly remodeled duplex, available for rent at $2,695 per month, is located at 1821 S 1100 E in Salt Lake City, Utah. The residence features a charming exterior with a covered front porch and a total of 2,200 square feet of living space. Inside, the home offers 3 bedrooms and 2.5 bathrooms, with brand new carpet throughout. It includes a 2-car garage with extra driveway space and comes with a washer and dryer available for use. The property is described as \"very walkable,\" and is minutes away from a variety of dining, shopping, and entertainment options, as well as being close to Sugarhouse Park.",
+    "price": 2695,
+    "address": "1821 S 1100 E",
+    "city": "Salt Lake City, Utah 84105",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363998/byrahyjcppetdn4i4gk8.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754363998/byrahyjcppetdn4i4gk8.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 2200,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "rent",
+    "createdAt": "2025-08-05T03:20:59.132Z",
+    "updatedAt": "2025-08-05T03:20:59.132Z"
+  },
+  {
+    "_id": "6891ce7300996cd53f07b802",
+    "title": "Cozy Townhomes",
+    "description": "A row of two-story townhomes with a warm, inviting feel, featuring yellow siding and stone accents. The properties are located in a well-kept neighborhood with nearby trees and a clean sidewalk, giving them a strong sense of community.",
+    "price": 325000,
+    "address": "1234 N Main St",
+    "city": "Orem, Utah 84058",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754385946/znfdubcnwnuu9deniarz.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754385946/znfdubcnwnuu9deniarz.jpg",
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754385948/klboccszbfrc3dcwvobm.jpg",
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754385956/fthra9hzsu67f28lfqrb.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1800,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-05T09:27:14.393Z",
+    "updatedAt": "2025-08-05T09:27:14.393Z"
+  },
+  {
+    "_id": "6891cfdf00996cd53f07b803",
+    "title": "Modern Craftsman-Inspired Townhome",
+    "description": "A contemporary townhome with a stylish Craftsman-inspired facade, featuring brown siding and decorative stone accents. The property includes an attached garage and a clean, modern aesthetic.",
+    "price": 295000,
+    "address": "5678 E 200 S",
+    "city": " Ogden, Utah 84401",
+    "country": "United States",
+    "image": "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754386340/chryzvtou58lqgeoyaw3.jpg",
+    "images": [
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754386340/chryzvtou58lqgeoyaw3.jpg",
+      "https://res.cloudinary.com/dj0wrjtg2/image/upload/v1754386342/jcsf1ukgwq8bzetgkjkq.jpg"
+    ],
+    "facilities": {
+      "bedrooms": 3,
+      "squareFeet": 1400,
+      "bathrooms": 2
+    },
+    "userEmail": "onlyclaraintheworld@gmail.com",
+    "forStatus": "sale",
+    "createdAt": "2025-08-05T09:33:18.261Z",
+    "updatedAt": "2025-08-05T09:33:18.261Z"
+  }
+]
