@@ -19,7 +19,12 @@ const PORT = process.env.PORT || 8000;
 // Socket.io configuration
 const io = new SocketIOServer(server, {
   cors: {
-    origin: ["https://mern-stack-real-estate-frontend.vercel.app", "http://localhost:5173"],
+    origin: [
+      "https://presidiohomes.site",
+      "https://www.presidiohomes.site",
+      "https://mern-stack-real-estate-frontend.vercel.app",
+      "http://localhost:5173",
+    ],
     credentials: true,
   },
 });
@@ -29,6 +34,8 @@ app.use(cookieParser());
 
 // CORS Configuration
 const allowedOrigins = [
+  "https://presidiohomes.site",
+  "https://www.presidiohomes.site",
   "https://mern-stack-real-estate-frontend.vercel.app",
   "http://localhost:5173",
 ];
@@ -49,7 +56,7 @@ app.use(
       }
     },
     credentials: true,
-  })
+  }),
 );
 
 // Routes
@@ -107,4 +114,3 @@ io.on("connection", (socket) => {
 server.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
-
