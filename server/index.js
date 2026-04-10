@@ -22,7 +22,7 @@ const io = new SocketIOServer(server, {
     origin: [
       "https://presidiohomes.site",
       "https://www.presidiohomes.site",
-      "https://mern-stack-real-estate-frontend.vercel.app",
+      "https://presidio-homes.vercel.app",
       "http://localhost:5173",
     ],
     credentials: true,
@@ -36,7 +36,7 @@ app.use(cookieParser());
 const allowedOrigins = [
   "https://presidiohomes.site",
   "https://www.presidiohomes.site",
-  "https://mern-stack-real-estate-frontend.vercel.app",
+  "https://presidio-homes.vercel.app",
   "http://localhost:5173",
 ];
 
