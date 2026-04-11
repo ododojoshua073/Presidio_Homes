@@ -74,7 +74,7 @@ function App() {
                       </ProtectedRoute>
                     }
                   />
-                  <Route path="/aboutUs" element={<AboutUs />} />
+                  <Route path="/about" element={<AboutUs />} />
                 </Route>
 
                 <Route path="/login" element={<Login />} />

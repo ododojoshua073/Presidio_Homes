@@ -169,7 +169,7 @@ const Footer = () => {
               Quick Links
             </motion.h3>
             <motion.div className="f-menu" variants={itemVariants}>
-              {["/properties", "/aboutUs"].map((path, i) => (
+              {["/properties", "/about"].map((path, i) => (
                 <motion.span
                   key={i}
                   variants={menuItemVariants}

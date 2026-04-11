@@ -195,7 +195,7 @@ const Header = () => {
 
             <motion.div variants={menuItemVariants} whileHover="hover">
               <NavLink
-                to="/aboutUs"
+                to="/about"
                 className={({ isActive }) => (isActive ? "active-link" : "")}
                 style={{ color: isScrolled ? "#1f3e72" : "inherit" }}
               >
@@ -289,7 +289,7 @@ const Header = () => {
 
                 <motion.div variants={menuItemVariants} whileHover="hover">
                   <NavLink
-                    to="/aboutUs"
+                    to="/about"
                     className={({ isActive }) =>
                       isActive ? "active-link" : ""
                     }
